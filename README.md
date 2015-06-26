@@ -1,3 +1,3 @@
-# cassowary.dart
+# Moved
 
-Work in Progress. Nothing to see here. Move along.
+This repo has moved to [https://github.com/domokit/cassowary](https://github.com/domokit/cassowary)
